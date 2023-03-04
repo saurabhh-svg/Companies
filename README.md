@@ -67,7 +67,8 @@ You can clone this and add your own personal notes and remove mine.
 | 56  |Ping Identity               |          1st round interview                                                          |
 | 56  | Flam                |                 1st round interview                                            |
 60    | Tradedesk            |                 OA
-|70 | Tarana Wireless | Applied with referral no call |
+|61 | Intuit |Failed in OA |
+|62 | Tarana Wireless | Applied with referral no call |
 
 
 
