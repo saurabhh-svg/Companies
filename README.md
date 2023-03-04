@@ -5,7 +5,7 @@ You can clone this and add your own personal notes and remove mine.
 | Sno | COMPANIES            | Note                                                               |
 | --- | -------------------- | ------------------------------------------------------------------ |
 | 1   | CureFit              |                                                                    |
-| 2   | Goldman Sachs        |     Waiting for the August Openin -> failed in round 1             |
+| 2   | Goldman Sachs        |     OA failed             |
 | 3   | SalesForce           |   Reffered But no mail recieved                                    |
 | 4   | Amazon               |    Test on 16 August 2022  -> cleared round 1, hiring freeze       |
 | 5   | Qualcomm             |                                                                    |
@@ -16,11 +16,11 @@ You can clone this and add your own personal notes and remove mine.
 | 10  | Desutsche Bank       |                                                                    |
 | 11  | Sprinklr             |                                                                    |
 | 12  | Dunzo                |                                                                    |
-| 13  | Morgan Stanley       |     Applied but no mails received                                  |
+| 13  | Morgan Stanley       |     failed in OA                                  |
 | 14  | Grofers              |                                                                    |
 | 15  | Splashlearn          |                                                                    |
-| 16  | Interviewbit         |                                                                    |
-| 17  | Flipkart             |  Waiting for the final chance                                      |
+| 16  | Interviewbit/Scaler         |        Cleared OA / submitted assignment                                                            |
+| 17  | Flipkart             |                                    |
 | 18  | Paypal               |   Gave OA solved both questions. NO response                       |
 | 19  | Walmart              |                                                                    |
 | 20  | OYO                  |                                                                    |
@@ -28,7 +28,7 @@ You can clone this and add your own personal notes and remove mine.
 | 22  | Hotstar              |                                                                    |
 | 23  | Netflix              |                                                                    |
 | 24  | Sharechat            |                                                                    |
-| 25  | Jp Morgan            |  Waiting for the opening                                           |
+| 25  | Jp Morgan            |                                    |
 | 26  | Swiggy               |                                                                    |
 | 27  | Mobikwik             |                                                                    |
 | 28  | eBay                 |                                                                    |
@@ -67,7 +67,7 @@ You can clone this and add your own personal notes and remove mine.
 | 56  |Ping Identity               |          1st round interview                                                          |
 | 56  | Flam                |                 1st round interview                                            |
 60    | Tradedesk            |                 OA
-
+|70 | Tarana Wireless | Applied with referral no call |
 
 
 
