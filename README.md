@@ -63,10 +63,10 @@ You can clone this and add your own personal notes and remove mine.
 | 57  | SAP Labs             |                                                                    |
 | 56  | Telstra              |                                                                    |
 | 56  |FLock                 |                                                                    |
-| 58  | Shopflo                 |                                                                    |
-| 56  |Ping Identity               |                                                                    |
-| 56  | Flam                |                                                                    |
-60     Tradedesk
+| 58  | Shopflo                 |             1st rounf interview                                                       |
+| 56  |Ping Identity               |          1st round interview                                                          |
+| 56  | Flam                |                 1st round interview                                            |
+60    | Tradedesk            |                 OA
 
 
 
