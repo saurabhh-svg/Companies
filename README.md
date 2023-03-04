@@ -63,10 +63,10 @@ You can clone this and add your own personal notes and remove mine.
 | 57  | SAP Labs             |                                                                    |
 | 56  | Telstra              |                                                                    |
 | 56  |FLock                 |                                                                    |
-| 58  | Shopflo                 |             1st rounf interview                                                       |
-| 56  |Ping Identity               |          1st round interview                                                          |
-| 56  | Flam                |                 1st round interview                                            |
-60    | Tradedesk            |                 OA
+| 58  | Shopflo                 |            rejected in 1st round                                                |
+| 56  |Ping Identity               |          rejected in 1st round                                            |
+| 56  | Flam                |                rejected in 1st round                                     |
+60    | Tradedesk            |                 OA failed
 |61 | Intuit |Failed in OA |
 |62 | Tarana Wireless | Applied with referral no call |
 
