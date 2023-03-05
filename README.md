@@ -70,6 +70,8 @@ You can clone this and add your own personal notes and remove mine.
 | 61  | Intuit               |               Failed in OA                                         |
 | 62  | Tarana Wireless      |      Applied with referral no call                                 |
 | 63  | Hyland               |            Waiting for OA                                          |
+| 64  | BetterHalf           |           Rejected in round 1                                      |
+
 
 
 
