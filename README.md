@@ -69,6 +69,8 @@ You can clone this and add your own personal notes and remove mine.
 60    | Tradedesk            |                 OA failed
 |61 | Intuit |Failed in OA |
 |62 | Tarana Wireless | Applied with referral no call |
+|63 | Hyland | Waiting for OA |
+
 
 
 
