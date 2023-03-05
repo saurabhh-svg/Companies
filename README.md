@@ -5,18 +5,18 @@ You can clone this and add your own personal notes and remove mine.
 | Sno | COMPANIES            | Note                                                               |
 | --- | -------------------- | ------------------------------------------------------------------ |
 | 1   | CureFit              |                                                                    |
-| 2   | Goldman Sachs        |     OA failed             |
+| 2   | Goldman Sachs        |     OA failed                                                      |
 | 3   | SalesForce           |   Reffered But no mail recieved                                    |
 | 4   | Amazon               |    Test on 16 August 2022  -> cleared round 1, hiring freeze       |
 | 5   | Qualcomm             |                                                                    |
 | 6   | Cisco                |  Reffered but no mails received                                    |
 | 7   | Google               |                                                                    |
 | 8   | Adobe                |   Rejection                                                        |
-| 9   | Linkedin             |   failed in Oa                                                     |
+| 9   | Linkedin             |   Failed in OA                                                     |
 | 10  | Desutsche Bank       |                                                                    |
 | 11  | Sprinklr             |                                                                    |
-| 12  | Dunzo                |                                                                    |
-| 13  | Morgan Stanley       |     failed in OA                                                   |
+| 12  | Dunzo                |     Not Hiring 24 batch                                            |
+| 13  | Morgan Stanley       |     Failed in OA                                                   |
 | 14  | Grofers              |                                                                    |
 | 15  | Splashlearn          |                                                                    |
 | 16  | Interviewbit/Scaler  |        Cleared OA / submitted assignment                           |
