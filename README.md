@@ -71,6 +71,7 @@ You can clone this and add your own personal notes and remove mine.
 | 62  | Tarana Wireless      |      Applied with referral no call                                 |
 | 63  | Hyland               |            Waiting for OA                                          |
 | 64  | BetterHalf           |           Rejected in round 1                                      |
+| 65  | testRigor            |   Failed to say anything about the company.  Rejected ! (1.5 lpm)  |
 
 
 
