@@ -62,9 +62,9 @@ You can clone this and add your own personal notes and remove mine.
 | 56  | Shopee VISA problem  |                                                                    |
 | 57  | SAP Labs             |                                                                    |
 | 56  | Telstra              |                                                                    |
-| 56  |FLock                 |                                                                    |
+| 56  | FLock                |                                                                    |
 | 58  | Shopflo              |            rejected in 1st round                                   |
-| 56  |Ping Identity         |          rejected in 1st round                                     |
+| 56  | Ping Identity        |          rejected in 1st round                                     |
 | 56  | Flam                 |                rejected in 1st round                               |
 | 60  | Tradedesk            |                 OA failed                                          |
 | 61  | Intuit               |               Failed in OA                                         |
@@ -72,6 +72,10 @@ You can clone this and add your own personal notes and remove mine.
 | 63  | Hyland               |            Waiting for OA                                          |
 | 64  | BetterHalf           |           Rejected in round 1                                      |
 | 65  | testRigor            |   Failed to say anything about the company.  Rejected ! (1.5 lpm)  |
+| 66  | The Trade Desk       |   Reached Final round 3 out of 12K. Rejected (26 Lac Base)         |
+| 67  | Singzy               |   Offered Role !  Accepted !                                       |
+| 68  |                      |                                                                    |
+| 69  |                      |                                                                    |
 
 
 
