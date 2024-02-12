@@ -29,7 +29,7 @@ You can clone this and add your own personal notes and remove mine.
 | 23  | Netflix              |                                                                    |
 | 24  | Sharechat            |                                                                    |
 | 25  | Jp Morgan            |                                                                    |
-| 26  | Swiggy               |                                                                    |
+| 26  | Swiggy               |   got the mail but they didn't send the oa link                    |
 | 27  | Mobikwik             |                                                                    |
 | 28  | eBay                 |                                                                    |
 | 29  | Nutanix              |                                                                    |
@@ -74,8 +74,12 @@ You can clone this and add your own personal notes and remove mine.
 | 65  | testRigor            |   Failed to say anything about the company.  Rejected ! (1.5 lpm)  |
 | 66  | The Trade Desk       |   Reached Final round 3 out of 12K. Rejected (26 Lac Base)         |
 | 67  | Singzy               |   Offered Role !  Accepted !                                       |
-| 68  |                      |                                                                    |
-| 69  |                      |                                                                    |
+| 68  | MPL                  |                                                                    |
+| 69  | Lepton Technologies  |  Passed the interview. Low package                                 |
+| 70  | Leap                 |   Reached EM Round but failed to do the a/b testing                |
+| 71  | Zomato               |                                                                    |
+| 72  | Upstox               |    Failed in OA                                                    |
+| 73  |                      |                                                                    |
 
 
 
